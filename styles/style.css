@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Poppins:wght@500&display=swap');
+.register{
+height: 300px;
+}
+
+.first{
+width: 548px;
+height: 136px;
+}
+.second{
+width: 548px;
+height: 136px;
+}
+.fa-star{
+    color: yellow;
+
+}
+.exp{
+    background-color: #F4FAFD;
+   
+}
+.reg{
+    background-color: #289BDE;
+}
+.btn{
+    background-color:#289BDE;
+}
+.btn-light{
+    color: #289BDE;
+    background-color: white;
+    padding: 5px 8px;
+    border: 0;
+    border-radius: 5px;
+}
+* FOOTER part */
+.footer {
+    width: 100%;
+    background-color: #0b0d17;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    padding: 20px 0px;
+    letter-spacing: 1px;
+    margin-top:3%;
+  }
+  .carousel h5{
+    color: rgb(244, 244, 244);
+    
+  }
+  .text-white{
+    color: white
+  }
+
+  .footer h3{
+    font-family: 'DynaPuff', cursive;
+  }
+ 
+  .footer p {
+    font-size: 14px;
+  }
+  #footer-color {
+    color: #562EFF;
+  }
+  .nickname {
+    color:lime;
+  }
